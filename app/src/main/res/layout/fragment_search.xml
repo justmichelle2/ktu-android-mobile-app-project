@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Search"
-        android:textColor="#25D366"
+        android:textColor="#2196F3"
         android:textSize="28sp"
         android:textStyle="bold"
         android:layout_marginStart="20dp"
